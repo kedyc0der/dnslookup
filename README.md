@@ -7,7 +7,7 @@ It's my first script, don't hesitate to complete it and make it much better.
 
 Simple PHP script to lookup entries of A, AAAA, NS, MX, SOA and TXT records.
 
-You can test the tool here : https://outils.hqweb.com/dns-lookup/
+
 
 Build on Bootstrap.
 
