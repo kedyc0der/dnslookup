@@ -9,7 +9,7 @@ error_reporting(0);
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Simple PHP script to lookup entries of A, AAAA, NS, MX, SOA and TXT records">
-        <meta name="author" content="HQWEB">
+        <meta name="author" content="Kedy.Coder">
         <title>Simple DNS Lookup</title>
         <link rel="icon" href="assets/favicon.ico"><!-- https://www.iconperk.com/iconsets/magicons -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet"><!-- Bootstrap core CSS -->
@@ -25,7 +25,7 @@ error_reporting(0);
                         <li role="presentation" class="active"><a href="#">DNS Lookup</a></li>
                     </ul>
                 </nav>
-                <h3 class="text-muted">Simple DNS Lookup</h3>
+                <h3 class="text-muted">Simple DNS Lookup - Kedy.Coder</h3>
             </div>
             
             <?php
